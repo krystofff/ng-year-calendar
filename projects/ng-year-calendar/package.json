@@ -1,0 +1,11 @@
+{
+  "name": "ng-year-calendar",
+  "version": "0.0.1",
+  "dependencies": {
+    "js-year-calendar": "^1.0.2"
+  },
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  }
+}
